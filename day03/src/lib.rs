@@ -1,5 +1,5 @@
 use std::collections::*;
-use itertools::Itertools; 
+use itertools::Itertools;
 
 pub fn part1(input: &str) -> String {
     let mut items = HashSet::new();
